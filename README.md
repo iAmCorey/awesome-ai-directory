@@ -14,12 +14,16 @@
 欢迎提交PR和Issue，分享您发现的优质AI导航站或提出改进建议。
 
 
+
+
 ## 目录
 
 - [AI工具收录导航](#AI工具收录导航)
 - [AI模型接口资源](#AI模型接口资源)
 - [AI学习资料资源](#AI学习资料资源)
 - [AI新闻趋势聚合](#AI新闻趋势聚合)
+
+
 
 
 ## AI工具收录导航
@@ -182,12 +186,30 @@
 | [Xnavi AI](https://xnavi.ai/) | AI导航和工具推荐平台 |  | 219 |
 | [aiex.me](https://aiex.me/) | AI工具交流和分享平台 |  |  |
 
+
+
 ## AI模型接口资源
+| 名称 | 描述 |
+|------|------|
+| [Openrouter](https://openrouter.ai/) | 提供多种AI模型API接口的统一平台 |
+| [Openart](https://openart.ai/) | AI生成艺术作品的创作和分享平台 |
+| [Replicate](https://replicate.com/) | 云端AI模型部署和运行服务平台 |
+| [Siliconflow](https://siliconflow.cn/) | 国产开源AI模型训练和部署平台 |
+
 
 
 
 ## AI学习资料资源
+| 名称 | 描述 |
+|------|------|
+
 
 
 
 ## AI新闻趋势聚合
+| 名称 | 描述 |
+|------|------|
+| [Product Hunt](https://www.producthunt.com/) | 新产品和趋势发现平台 |
+| [Hacker News](https://news.ycombinator.com/) | 科技和创业新闻聚合平台 |
+| [Indie Hackers](https://www.indiehackers.com/) | 面向独立开发者和创业者的社区，提供经验分享、讨论和产品展示的机会。 |
+| [BetaList](https://betalist.com/) | 专注于展示早期创业项目和产品的平台。 |
