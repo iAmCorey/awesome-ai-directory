@@ -169,7 +169,7 @@
 | [Overstarry Blog](https://overstarry.vip/) | AI和技术相关的博客 | 2 |  |
 | [AI导航](https://ai.dreamthere.cn) | AI导航，致力于搜集和推荐优质的AI网站、AI工具，提供全面、及时的人工智能网站信息。 | 13 | 3300 |
 | [Gen AI Prism Tools Directory](https://www.genaiprism.site/) | 发现超过2000+个最佳AI工具的目录 | 13 | 146 |
-| [Dev Toolset](https://devtoolset.net) | 开发者工具集合 | 6 | 3000 |
+| [Dev Toolset](https://devtoolset.net) | 开发者工具集合 | 27 | 3000 |
 | [ToolsApp](https://toolsapp.cc/) | ToolsApp AI Directory提供免费的AI工具目录，旨在收集所有AI工具并为用户提供最佳选择。 | 20 | 1027 |
 | [What Is Ai Tools](https://whatisaitools.com/) | AI工具解析和导航平台 | 29 | 1300 |
 | [AIWITH.ME](https://aiwith.me/) | AI工具陪伴和推荐平台 | 54 | 9090 |
