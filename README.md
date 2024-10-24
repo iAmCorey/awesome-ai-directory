@@ -194,6 +194,10 @@
 | [Openrouter](https://openrouter.ai/) | 提供多种AI模型API接口的统一平台 |
 | [Openart](https://openart.ai/) | AI生成艺术作品的创作和分享平台 |
 | [Replicate](https://replicate.com/) | 云端AI模型部署和运行服务平台 |
+| [huggingface](https://huggingface.co/) | 提供多种AI模型API接口的统一平台 |
+| [SerpApi](https://serpapi.com/) | 提供AI驱动的搜索引擎API接口 |
+| [DeepSeek](https://deepseek.com/) | 国产AI模型接口资源 |
+| [RapidAPI](https://rapidapi.com/) | 提供多种AI模型API接口的统一平台 |
 | [Siliconflow](https://siliconflow.cn/) | 国产开源AI模型训练和部署平台 |
 
 
@@ -202,6 +206,17 @@
 ## AI学习资料资源
 | 名称 | 描述 |
 |------|------|
+| [Fast.ai](https://www.fast.ai/) | 提供免费在线课程和资源，专注于AI和机器学习 |
+| [Kaggle](https://www.kaggle.com/) | 数据科学和机器学习竞赛平台，提供丰富的学习资源 |
+| [DeepLearningAI](https://www.deeplearning.ai/) | 提供在线课程和资源，专注于深度学习和AI |
+| [AI For Everyone](https://www.aiforeveryone.org/) | 提供免费在线课程和资源，面向所有人学习AI |
+| [MIT OpenCourseWare](https://ocw.mit.edu/) | 麻省理工学院提供的免费在线课程和资源 |
+| [Papers with Code](https://paperswithcode.com/) | 机器学习论文与其实现代码的集合 |
+| [Coursera](https://www.coursera.org/) | 在线学习平台，提供多种AI相关课程 |
+| [Udemy](https://www.udemy.com/) | 在线学习平台，提供多种AI相关课程 |
+| [Khan Academy](https://www.khanacademy.org/) | 免费在线教育平台，提供AI相关课程 |
+| [edX](https://www.edx.org/) | 免费在线教育平台，提供AI相关课程 |
+| [OpenAI Learning Research](https://openai.com/research/) | OpenAI提供的免费在线学习资源 |
 
 
 
@@ -213,3 +228,8 @@
 | [Hacker News](https://news.ycombinator.com/) | 科技和创业新闻聚合平台 |
 | [Indie Hackers](https://www.indiehackers.com/) | 面向独立开发者和创业者的社区，提供经验分享、讨论和产品展示的机会。 |
 | [BetaList](https://betalist.com/) | 专注于展示早期创业项目和产品的平台。 |
+| [TechCrunch](https://techcrunch.com/) | 科技创业新闻和趋势平台 |
+| [The Gradient](https://thegradient.pub/) | 人工智能和机器学习领域的深度报道和分析 |
+| [MIT Technology Review](https://www.technologyreview.com/) | 麻省理工学院科技评论，提供最新的科技新闻和趋势 |
+| [Synced Global AI](https://syncedreview.com/) | 全球AI新闻和趋势平台 |
+| [a16z](https://a16z.com/) | 知名风险投资公司a16z的博客，提供AI领域的最新动态和见解 |
