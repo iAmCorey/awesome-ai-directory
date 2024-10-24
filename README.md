@@ -199,6 +199,8 @@
 | [DeepSeek](https://deepseek.com/) | 国产AI模型接口资源 |
 | [RapidAPI](https://rapidapi.com/) | 提供多种AI模型API接口的统一平台 |
 | [Siliconflow](https://siliconflow.cn/) | 国产开源AI模型训练和部署平台 |
+| [fal.ai](https://fal.ai/) | AI模型接口资源 |
+| [mystic.ai](https://mystic.ai/) | AI模型接口资源 |
 
 
 
