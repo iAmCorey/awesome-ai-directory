@@ -235,3 +235,5 @@
 | [MIT Technology Review](https://www.technologyreview.com/) | 麻省理工学院科技评论，提供最新的科技新闻和趋势 |
 | [Synced Global AI](https://syncedreview.com/) | 全球AI新闻和趋势平台 |
 | [a16z](https://a16z.com/) | 知名风险投资公司a16z的博客，提供AI领域的最新动态和见解 |
+
+- [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
