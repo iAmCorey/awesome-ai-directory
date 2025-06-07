@@ -34,6 +34,7 @@
 | [SaaS AI Tools](https://saasaitools.com) | SaaS和AI工具的综合目录 | 57 | 14300 |
 | [Future Tools](https://futuretools.io) | 发现和探索新兴AI工具 | 61 | 528800 |
 | [AI-Findr](https://ai-findr.com) | AI工具搜索引擎 | 9 |  |
+| [AgentHunter](https://www.agenthunter.io) | 每日更新的AI Agent目录和新闻 | 1 |  |
 | [AI-Hunter](https://ai-hunter.io) | AI产品和工具的搜索平台 | 14 | 9000 |
 | [AI AI](https://aiai.tools) | AI工具和应用的导航网站 | 34 | 2000 |
 | [Human or Not](https://www.humanornot.co) | 人工智能与人类创作的对比平台 | 6 |  |
