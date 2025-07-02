@@ -186,6 +186,8 @@
 | [Content & Marketing](https://content-and-marketing.com/) | 内容营销相关的AI工具和资源 |  |  |
 | [Xnavi AI](https://xnavi.ai/) | AI导航和工具推荐平台 |  | 219 |
 | [aiex.me](https://aiex.me/) | AI工具交流和分享平台 |  |  |
+| [AiMatch.pro](https://aimatch.pro) | 提交你的 AI 工具即可获高权重 dofollow 外链、每月约 500+ 精准 AI 访客，并带来提升转化的信任徽章 |  | 500 |
+
 
 
 
