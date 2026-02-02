@@ -97,6 +97,7 @@
 | [FindAITools](https://findaitools.co) | AI工具搜索和发现平台 | 6 |  |
 | [NextGenTool](https://nextgentool.io/) | 下一代AI工具展示平台 | 12 |  |
 | [NaNAI](https://nanai.tools/) | 小而美的AI工具集合 | 35 |  |
+| [FlyPloy](https://flyploy.com/en) | 简单强大的现代化应用部署平台，支持 Docker 和 Kubernetes | 1 |  |
 | [AI Valley](https://aivalley.ai) | AI创新和工具聚集地 | 24 |  |
 | [OpenFuture](https://openfuture.ai) | 开放的AI未来技术和工具平台 | 38 |  |
 | [AI Tool Mall](https://aitoolmall.com) | AI工具商城和导航 | 43 |  |
