@@ -193,6 +193,8 @@
 
 
 
+- [HeyVid AI](https://heyvid.ai) - Free AI Video & Image Generator. Text-to-video, image-to-video, AI art. No watermark, no signup.
+
 ## AI模型接口资源
 | 名称 | 描述 |
 |------|------|
