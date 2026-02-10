@@ -16,6 +16,8 @@
 
 
 
+| [HeyVid AI](https://heyvid.ai) | Free AI Video & Image Generator | Video/Image | Free | 是 |
+
 ## 目录
 
 - [AI工具收录导航](#AI工具收录导航)
