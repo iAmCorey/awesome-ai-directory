@@ -190,7 +190,10 @@
 | [Xnavi AI](https://xnavi.ai/) | AI导航和工具推荐平台 |  | 219 |
 | [aiex.me](https://aiex.me/) | AI工具交流和分享平台 |  |  |
 | [AiMatch.pro](https://aimatch.pro) | 提交你的 AI 工具即可获高权重 dofollow 外链、每月约 500+ 精准 AI 访客，并带来提升转化的信任徽章 |  | 500 |
-
+| [Aura++](https://auraplusplus.com) | AI工具和资源导航平台 | 67 | 12000 |
+| [Early Hunt](https://earlyhunt.com) | 新兴产品和AI工具发现平台 | 42 | 8000 |
+| [Indie Hunt](https://indiehunt.io) | 独立开发者产品和AI工具展示平台 | 46 | 8000 |
+| [UNO Directory](https://uno.directory) | 精选工具和资源目录平台 | 52 | 6000 |
 
 
 
