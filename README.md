@@ -243,3 +243,4 @@
 | [a16z](https://a16z.com/) | 知名风险投资公司a16z的博客，提供AI领域的最新动态和见解 |
 
 - [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - [GitHub](https://github.com/SeeleAI/submission-site-discovery) - Discover product submission sites from public alternatives pages like SaaSHub.
