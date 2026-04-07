@@ -190,6 +190,7 @@
 | [Xnavi AI](https://xnavi.ai/) | AI导航和工具推荐平台 |  | 219 |
 | [aiex.me](https://aiex.me/) | AI工具交流和分享平台 |  |  |
 | [AiMatch.pro](https://aimatch.pro) | 提交你的 AI 工具即可获高权重 dofollow 外链、每月约 500+ 精准 AI 访客，并带来提升转化的信任徽章 |  | 500 |
+| [RemoteOpenClaw](https://remoteopenclaw.com) | AI技能和角色的开放市场，基于OpenClaw构建 |  |  |
 
 
 
