@@ -190,6 +190,7 @@
 | [Xnavi AI](https://xnavi.ai/) | AI导航和工具推荐平台 |  | 219 |
 | [aiex.me](https://aiex.me/) | AI工具交流和分享平台 |  |  |
 | [AiMatch.pro](https://aimatch.pro) | 提交你的 AI 工具即可获高权重 dofollow 外链、每月约 500+ 精准 AI 访客，并带来提升转化的信任徽章 |  | 500 |
+| [Not Human Search](https://nothumansearch.ai) | 面向 AI Agent 的搜索引擎，收录 8,000+ 个具备 llms.txt / OpenAPI / MCP / ai-plugin 等 agent-readable 信号的网站与工具，提供 JSON API 与 MCP Server |  |  |
 
 
 
