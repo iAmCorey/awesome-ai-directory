@@ -190,6 +190,7 @@
 | [Xnavi AI](https://xnavi.ai/) | AI导航和工具推荐平台 |  | 219 |
 | [aiex.me](https://aiex.me/) | AI工具交流和分享平台 |  |  |
 | [AiMatch.pro](https://aimatch.pro) | 提交你的 AI 工具即可获高权重 dofollow 外链、每月约 500+ 精准 AI 访客，并带来提升转化的信任徽章 |  | 500 |
+| [Awesome AI Startups](https://github.com/nowork-studio/awesome-ai-startups) | 由独立开发者构建的精选 AI 产品列表，包含自筹资金、种子前期和天使投资项目 |  |  |
 
 
 
