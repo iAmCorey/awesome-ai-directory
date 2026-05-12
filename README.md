@@ -12,6 +12,7 @@
 资源持续定期更新，旨在为AI爱好者、开发者和研究人员提供便捷的资源查找渠道；为AI资源导航站开发者提供收录渠道。
 
 欢迎提交PR和Issue，分享您发现的优质AI导航站或提出改进建议。
+- [Nick Launches](https://nicklaunches.com/) - Launch platform for builders, AI startups, and SaaS founders to get discovered and earn a permanent dofollow backlink.
 
 
 
