@@ -45,6 +45,7 @@
 | [AINavigationSite](https://ainavigationsite.com) | AI工具和网站的导航平台 | 6 |  |
 | [AIToolbox](https://www.aitoolbox.tools) | AI工具集合和资源库 | 1 |  |
 | [AIToolDr](https://aitooldr.com) | AI工具诊断和推荐平台 | 8 |  |
+| [AIToolIndex](https://aitoolindex.io/) | 可搜索的AI工具目录，支持按类别、价格、替代方案和使用场景比较工具 |  |  |
 | [AIToolly](https://aitoolly.com/zh/) | 中文AI工具导航网站 | 16 |  |
 | [AIToolsExplorer](https://www.aitoolsexplorer.org) | AI工具探索和评估平台 | 22 |  |
 | [AIToolsList](https://www.aitoolslist.top) | AI工具列表和目录 | 1 |  |
