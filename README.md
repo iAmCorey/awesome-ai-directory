@@ -190,6 +190,7 @@
 | [Xnavi AI](https://xnavi.ai/) | AI导航和工具推荐平台 |  | 219 |
 | [aiex.me](https://aiex.me/) | AI工具交流和分享平台 |  |  |
 | [AiMatch.pro](https://aimatch.pro) | 提交你的 AI 工具即可获高权重 dofollow 外链、每月约 500+ 精准 AI 访客，并带来提升转化的信任徽章 |  | 500 |
+| [ZPlatform.ai](https://zplatform.ai/) | 经过实测的AI工具与软件优惠目录，对每个收录的工具给出购买、观望或略过的评测建议，涵盖写作、SEO、设计、生产力等分类。 | 51 |  |
 
 
 
