@@ -46,6 +46,7 @@
 | [AIToolbox](https://www.aitoolbox.tools) | AI工具集合和资源库 | 1 |  |
 | [AIToolDr](https://aitooldr.com) | AI工具诊断和推荐平台 | 8 |  |
 | [AIToolly](https://aitoolly.com/zh/) | 中文AI工具导航网站 | 16 |  |
+| [AiToolsObserver](https://aitoolsobserver.com) | AI工具发现、比较和趋势分析平台 | 22 |  |
 | [AIToolsExplorer](https://www.aitoolsexplorer.org) | AI工具探索和评估平台 | 22 |  |
 | [AIToolsList](https://www.aitoolslist.top) | AI工具列表和目录 | 1 |  |
 | [BAI](https://bai.tools) | 商业AI工具导航平台 | 39 | 11300 |
