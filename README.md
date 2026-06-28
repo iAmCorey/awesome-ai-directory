@@ -198,6 +198,7 @@
 | 名称 | 描述 |
 |------|------|
 | [Openrouter](https://openrouter.ai/) | 提供多种AI模型API接口的统一平台 |
+| [Tokens Forge](https://tokens-forge.com/) | OpenAI-compatible AI Token 与模型 API 网关，支持 GPT、Claude、Gemini 路由、API Key、价格表、用量账本和 AI 研究员工作流 |
 | [Openart](https://openart.ai/) | AI生成艺术作品的创作和分享平台 |
 | [Replicate](https://replicate.com/) | 云端AI模型部署和运行服务平台 |
 | [huggingface](https://huggingface.co/) | 提供多种AI模型API接口的统一平台 |
