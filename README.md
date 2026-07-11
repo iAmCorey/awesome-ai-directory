@@ -42,6 +42,7 @@
 | [AI Easy](https://aieasy.life) | 简化AI工具使用的平台 | 33 | 2000 |
 | [Aimonstr](https://aimonstr.com/) | AI工具监测和评估平台 | 26 | 288 |
 | [AINavHub](https://ainavhub.com) | AI工具和资源的导航中心 | 1 |  |
+| [ToolMagpie](https://toolmagpie.com) | 实时验证的 AI Agent 目录，涵盖客服、销售、编程、MCP 服务器与自动化，自动标记失效工具 | 1 |  |
 | [AINavigationSite](https://ainavigationsite.com) | AI工具和网站的导航平台 | 6 |  |
 | [AIToolbox](https://www.aitoolbox.tools) | AI工具集合和资源库 | 1 |  |
 | [AIToolDr](https://aitooldr.com) | AI工具诊断和推荐平台 | 8 |  |
