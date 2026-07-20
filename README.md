@@ -32,6 +32,7 @@
 | [Magicbox](https://magicbox.tools) | AI工具和资源的聚合平台 | 71 | 6000 |
 | [AI Best Tools](https://aibest.tools/) | 精选AI工具目录 | 46 | 6000 |
 | [Best AI Tools Directory](https://www.bestaitoolsforthat.com/) | 精选AI工具目录 | 31 |  |
+| [BestAIpicker](https://www.bestaipicker.com/) | 提供交互式AI工具选型、对比和基于来源的评测 |  |  |
 | [SaaS AI Tools](https://saasaitools.com) | SaaS和AI工具的综合目录 | 57 | 14300 |
 | [Future Tools](https://futuretools.io) | 发现和探索新兴AI工具 | 61 | 528800 |
 | [AI-Findr](https://ai-findr.com) | AI工具搜索引擎 | 9 |  |
