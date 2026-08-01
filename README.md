@@ -33,6 +33,7 @@
 | [AI Best Tools](https://aibest.tools/) | 精选AI工具目录 | 46 | 6000 |
 | [Best AI Tools Directory](https://www.bestaitoolsforthat.com/) | 精选AI工具目录 | 31 |  |
 | [SaaS AI Tools](https://saasaitools.com) | SaaS和AI工具的综合目录 | 57 | 14300 |
+| [SaaSCity](https://saascity.io/) | 游戏化的 SaaS 目录，每个收录都会成为等距城市地图上的一栋建筑 | 46 | 200 |
 | [Future Tools](https://futuretools.io) | 发现和探索新兴AI工具 | 61 | 528800 |
 | [AI-Findr](https://ai-findr.com) | AI工具搜索引擎 | 9 |  |
 | [AgentHunter](https://www.agenthunter.io) | 每日更新的AI Agent目录和新闻 | 1 |  |
