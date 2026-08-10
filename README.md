@@ -37,6 +37,8 @@
 | [AI-Findr](https://ai-findr.com) | AI工具搜索引擎 | 9 |  |
 | [AgentHunter](https://www.agenthunter.io) | 每日更新的AI Agent目录和新闻 | 1 |  |
 | [AI-Hunter](https://ai-hunter.io) | AI产品和工具的搜索平台 | 14 | 9000 |
+| [AIHuntList](https://aihuntlist.com) | AI产品和工具导航 | 54 | 3000 |
+| [AITrustList](https://aitrustlist.com) | AI产品和工具导航、流量分析和排名 | 33 | 3000 |
 | [AI AI](https://aiai.tools) | AI工具和应用的导航网站 | 34 | 2000 |
 | [Human or Not](https://www.humanornot.co) | 人工智能与人类创作的对比平台 | 6 |  |
 | [AI Easy](https://aieasy.life) | 简化AI工具使用的平台 | 33 | 2000 |
