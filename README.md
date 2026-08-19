@@ -99,6 +99,7 @@
 | [NextGenTool](https://nextgentool.io/) | 下一代AI工具展示平台 | 12 |  |
 | [NaNAI](https://nanai.tools/) | 小而美的AI工具集合 | 35 |  |
 | [AI Valley](https://aivalley.ai) | AI创新和工具聚集地 | 24 |  |
+| [OpenBox](https://weed33834.github.io/OpenBox/) | 开源AI资源导航（免费API/中转/节点/工具/学习），社区投稿+实跳验证+人工精选 |  |  |
 | [OpenFuture](https://openfuture.ai) | 开放的AI未来技术和工具平台 | 38 |  |
 | [AI Tool Mall](https://aitoolmall.com) | AI工具商城和导航 | 43 |  |
 | [TopApps](https://topapps.ai) | 顶级AI应用和工具推荐 | 34 |  |
