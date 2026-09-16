@@ -48,6 +48,7 @@
 | [AIToolly](https://aitoolly.com/zh/) | 中文AI工具导航网站 | 16 |  |
 | [AIToolsExplorer](https://www.aitoolsexplorer.org) | AI工具探索和评估平台 | 22 |  |
 | [AIToolsList](https://www.aitoolslist.top) | AI工具列表和目录 | 1 |  |
+| [AI Tools Radar](https://aitoolsradar.com) | AI工具发现、产品对比、AI行业资讯和每日Newsletter平台 |  |  |
 | [BAI](https://bai.tools) | 商业AI工具导航平台 | 39 | 11300 |
 | [Best of AI](https://bestofai.com) | 精选顶级AI工具和资源 | 23 | 47500 |
 | [BizBot](https://bizbot.com/) | 面向企业的AI助手和工具平台 | 20 |  |
