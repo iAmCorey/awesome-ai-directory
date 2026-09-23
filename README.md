@@ -207,6 +207,7 @@
 | [Siliconflow](https://siliconflow.cn/) | 国产开源AI模型训练和部署平台 |
 | [fal.ai](https://fal.ai/) | AI模型接口资源 |
 | [mystic.ai](https://mystic.ai/) | AI模型接口资源 |
+| [TokenWorks（硅碳相变 Token工厂）](https://www.token8341.com/) | 国产+国际大模型 API 聚合平台（20 家厂商），OpenAI / Anthropic 双协议兼容，注册送免费体验额度 |
 
 
 
