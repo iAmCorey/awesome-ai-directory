@@ -190,6 +190,7 @@
 | [Xnavi AI](https://xnavi.ai/) | AI导航和工具推荐平台 |  | 219 |
 | [aiex.me](https://aiex.me/) | AI工具交流和分享平台 |  |  |
 | [AiMatch.pro](https://aimatch.pro) | 提交你的 AI 工具即可获高权重 dofollow 外链、每月约 500+ 精准 AI 访客，并带来提升转化的信任徽章 |  | 500 |
+| [EliteAI.tools](https://eliteai.tools) | 精选AI工具目录，收录 4,000+ 优质 AI 工具，含 MCP 服务器与 Agent 技能板块 | 35 | 300000 |
 
 
 
