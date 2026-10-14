@@ -172,6 +172,7 @@
 | [Directory for AI Detectors](https://detectortools.ai/) | AI检测工具目录 | 2 |  |
 | [Dir2AI](https://www.dir2ai.com) | 通往最佳AI网站和工具的门户 | 30 | 6400 |
 | [115AI](https://www.115ai.com) | AI 导航站 | 1 |  |
+| [51发现导航](https://51cgw9.cc) | 中文AI工具导航，标注国内直连/免费，可免费提交收录 | 1 |  |
 | [Overstarry Blog](https://overstarry.vip/) | AI和技术相关的博客 | 2 |  |
 | [AI导航](https://ai.dreamthere.cn) | AI导航，致力于搜集和推荐优质的AI网站、AI工具，提供全面、及时的人工智能网站信息。 | 13 | 3300 |
 | [Gen AI Prism Tools Directory](https://www.genaiprism.site/) | 发现超过2000+个最佳AI工具的目录 | 13 | 146 |
