@@ -60,6 +60,7 @@
 | [Maomaoyu](https://maomaoyu.coffee) | 个人维护的AI工具导航网站 | 16 |  |
 | [AutoAI's](https://autoais.com/?U=Add) | 自动化AI工具和服务平台 | 1 |  |
 | [Right AI](https://right-ai.com) | AI工具推荐和匹配平台 | 17 |  |
+| [RespawnStack](https://respawnstack.com) | 面向游戏开发者的精选AI工具目录 |  |  |
 | [See What New AI](https://www.seewhatnewai.com) | 新兴AI工具和技术展示平台 | 12 |  |
 | [ToolsFine](https://toolsfine.com/) | 精选工具和资源导航网站 | 40 |  |
 | [Toucu AI](https://toucu.ai) | AI工具触手可及的导航平台 | 13 |  |
