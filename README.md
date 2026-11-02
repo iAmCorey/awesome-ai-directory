@@ -243,3 +243,5 @@
 | [a16z](https://a16z.com/) | 知名风险投资公司a16z的博客，提供AI领域的最新动态和见解 |
 
 - [Expify - Ultimate AI Tools Directory](https://www.expify.ai) - [GitHub](https://github.com/kherona/expify.ai)
+
+- [AIToolNotes](https://aitoolnotes.blogspot.com) - Curated directory of free AI tools with detailed comparisons and guides for students, marketers, developers, and businesses.
