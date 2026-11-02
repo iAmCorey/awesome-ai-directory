@@ -30,6 +30,7 @@
 | 名称 | 描述 | DR | MV |
 |------|------|------|------|
 | [Magicbox](https://magicbox.tools) | AI工具和资源的聚合平台 | 71 | 6000 |
+| [Creati.ai](https://creati.ai/) | 收录 28,000+ AI 工具和智能体的多语言导航,含每日 AI 资讯和月度排行 | 50 |  |
 | [AI Best Tools](https://aibest.tools/) | 精选AI工具目录 | 46 | 6000 |
 | [Best AI Tools Directory](https://www.bestaitoolsforthat.com/) | 精选AI工具目录 | 31 |  |
 | [SaaS AI Tools](https://saasaitools.com) | SaaS和AI工具的综合目录 | 57 | 14300 |
