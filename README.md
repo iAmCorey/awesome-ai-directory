@@ -66,6 +66,7 @@
 | [Victrays](https://victrays.com) | AI工具和资源的聚合网站 | 14 |  |
 | [Supertools](https://supertools.therundown.ai) | 超级AI工具导航和评估平台 | 56 | 314100 |
 | [TakeAI](https://takeai.org) | 发现和探索最好的AI工具和应用 | 25 | 10000 |
+| [Awesome Tools](https://awesome.tools) | 精选AI、开发者和SaaS工具导航目录，提供深度评测与免费外链收录 | 31 |  |
 | [Aitoolnet](https://www.aitoolnet.com) | AI工具网络和资源中心 | 54 | 61300 |
 | [Al Marketing Directory](https://aimarketing.directory) | AI营销工具目录 | 8 |  |
 | [Marsx's Al Startups](https://www.marsx.dev/ai-startups) | AI创业公司和工具展示平台 | 43 |  |
